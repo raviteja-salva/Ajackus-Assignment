@@ -19,10 +19,9 @@ Live demo: [Project Demo Link](https://github.com/raviteja-salva198/Ajackus-Assi
 ## 🛠️ Technologies Used
 
 - React.js
-- HTML5
-- CSS3
+- Styled Components
+- Axios
 - JSONPlaceholder API
-- Git
 
 ## 🔧 Installation & Setup
 
